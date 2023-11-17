@@ -7,11 +7,16 @@ Part of this codes (below) were used for the creation of the tutorial.
 
 In this folder there are 3 files with codes: 
 
--TDA_Compute_BettiK_Euler
--randomData_Cx_matrix
--Compute_GH_matrix
+- TDA_Compute_BettiK_Euler
+- randomData_Cx_matrix
+- Compute_GH_matrix
 
-I will explain what they contain and how to use them.
+I will explain what they contain and how to use them. 
+If you are using them and run into any problem you can contact me (g.moreni@uva.nl) and I will be happy to help you.
+
+Best,
+
+Giulia Moreni
 
 ###############################################################
 
