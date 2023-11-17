@@ -1,4 +1,6 @@
-This project is part of my Master thesis, attached as pdf 'Master_Thesis_GMoreni.pdf'. 
+Welcome!
+
+This project is part of my Master thesis, attached here 'Master_Thesis_GMoreni.pdf'. 
 I later contributed to the publication of this paper and tutorial: 'A hands-on tutorial on network and topological neuroscience' https://pubmed.ncbi.nlm.nih.gov/35142909/. 
 The tutorial can be found at https://github.com/multinetlab-amsterdam/network_TDA_tutorial/tree/main. 
 Part of this codes (below) were used for the creation of the tutorial. 
