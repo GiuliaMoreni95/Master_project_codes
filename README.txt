@@ -1,3 +1,6 @@
+This project is part of my Master theis. 
+I later contributed to the publication of this paper, where part of this code is used: https://pubmed.ncbi.nlm.nih.gov/35142909/
+
 In this folder there are 3 files with codes: 
 
 -TDA_Compute_BettiK_Euler
